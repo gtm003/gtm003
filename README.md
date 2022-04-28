@@ -1,6 +1,14 @@
 <h1 align="center">Hi there, I'm Tatyana Grigorovich, Frontend developer.
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="mailto:gtm003@gmail.com"><img src="https://img.shields.io/badge/-gtm003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://vk.com/tgrigorovich"><img src="https://img.shields.io/badge/-tgrigorovich-1877F2?style=flat&logo=VK&logoColor=white"/></a>
+<a href="https://t.me/gtm003"><img src="https://img.shields.io/badge/-@gtm003-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+</p>
+
 <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gtm003&layout=compact&langs_count=8&theme=swift"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -46,6 +54,18 @@ Participated in the team development of [SVG-editor](https://github.com/gtm003/r
 
 <!--
 [![codewars](https://www.codewars.com/users/gtm003/badges/small)](https://www.codewars.com/users/gtm003)
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
 
 **gtm003/gtm003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
