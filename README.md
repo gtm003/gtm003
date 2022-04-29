@@ -5,8 +5,9 @@
 
 <p align="left">
 <a href="mailto:gtm003@gmail.com"><img src="https://img.shields.io/badge/-gtm003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://vk.com/tgrigorovich"><img src="https://img.shields.io/badge/-tgrigorovich-1877F2?style=flat&logo=VK&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gtm003"><img src="https://img.shields.io/badge/-Tatyana%20Grigorovich-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/gtm003"><img src="https://img.shields.io/badge/-@gtm003-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://vk.com/tgrigorovich"><img src="https://img.shields.io/badge/-tgrigorovich-1877F2?style=flat&logo=VK&logoColor=white"/></a>
 </p>
 
 <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gtm003&layout=compact&langs_count=8&theme=swift"/>
