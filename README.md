@@ -56,6 +56,8 @@ Participated in the team development of [SVG-editor](https://github.com/gtm003/r
 <!--
 [![codewars](https://www.codewars.com/users/gtm003/badges/small)](https://www.codewars.com/users/gtm003)
 
+![](https://komarev.com/ghpvc/?username=gtm003)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
